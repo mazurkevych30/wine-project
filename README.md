@@ -1,37 +1,39 @@
 ## About the Project
-This repository contains the frontend and backend parts of the **Wine Project** — a **team project** focused on exploring the wine industry of Georgia and Ukraine.
+This repository contains the frontend and backend parts of the **Wine Project** a **team project** focused on exploring the wine industry of Georgia and Ukraine.
 
 The platform provides convenient tools for:
 - researching wines,
 - discovering wineries,
 - browsing wine regions,
-- and planning wine tours.
+- planning wine tours.
 
 It serves as an informational and navigational web platform designed to help users learn about wine culture and find relevant wine-related experiences.
+
+---
 
 ## My Contributions (Frontend and Backend)
 I contributed to both backend and frontend development, implementing key modules, UI components, and application logic.
 
 ### Backend
-- Added Dockerfile.dev and docker-compose.dev configuration for local development
-- Implemented API modules for tours, including controllers, services, routes, and validation
-- Created region module: controller, router, service, schema, and validation middleware
+- Added Dockerfile.dev and docker-compose.dev configuration for local development  
+- Implemented API modules for tours, including controllers, services, routes, and validation  
+- Created region module: controller, router, service, schema, and validation middleware  
 
 ### Frontend
-- Built responsive Container component and configured global breakpoints
-- Initialized wines API service, store logic, and base UI components
-- Implemented full Wine Details page (layout, data loading, UI)
-- Styled Wine Page and improved visual consistency
-- Added search bar with filtering logic
-- Implemented pagination for wines list
-- Enhanced wine page functionality (sorting, filtering, UI improvements)
-- Fixed layout and logic issues on wine page
-- Developed Tours module UI
-- Added 404 page
-- Created About page with layout and content
-- Wrote integration tests for wines store (error handling, filtering, API interactions)
-- Fixed Tiptap editor initialization and restored static imports
-- Improved wines page with responsive design and new UI components
+- Built responsive Container component and configured global breakpoints  
+- Initialized wines API service, store logic, and base UI components  
+- Implemented full Wine Details page (layout, data loading, UI)  
+- Styled Wine Page and improved visual consistency  
+- Added search bar with filtering logic  
+- Implemented pagination for wines list  
+- Enhanced wine page functionality (sorting, filtering, UI improvements)  
+- Fixed layout and logic issues on wine page  
+- Developed Tours module UI  
+- Added 404 page  
+- Created About page with layout and content  
+- Wrote integration tests for wines store (error handling, filtering, API interactions)  
+- Fixed Tiptap editor initialization and restored static imports  
+- Improved wines page with responsive design and new UI components  
 
 
 # Wine Discovery Platform 🍷
